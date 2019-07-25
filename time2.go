@@ -11,7 +11,7 @@ import (
 )
 
 //curl -X GET -H "Authorization: sso-key 9jL9GABGRBx_xqY6VfDgW2bKUZaHS4sng:xqbBaBVo6kGy6v37H4yMA" "https://api.godaddy.com/v1/domains/available?domain=onedux.com"
-
+//tianweiqi555
 
 func main() {
 	const TIME_INTERVAL int = 30*60
